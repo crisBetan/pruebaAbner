@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07D20924212744A500FEC7DA /* Next.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07D20923212744A500FEC7DA /* Next.storyboard */; };
 		9ADD5AF12127408300F34029 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADD5AF02127408300F34029 /* AppDelegate.swift */; };
 		9ADD5AF32127408300F34029 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADD5AF22127408300F34029 /* ViewController.swift */; };
 		9ADD5AF62127408300F34029 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ADD5AF42127408300F34029 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		07D20923212744A500FEC7DA /* Next.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Next.storyboard; sourceTree = "<group>"; };
 		9ADD5AED2127408300F34029 /* PruebaAbner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PruebaAbner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ADD5AF02127408300F34029 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9ADD5AF22127408300F34029 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				9ADD5AF02127408300F34029 /* AppDelegate.swift */,
 				9ADD5AF22127408300F34029 /* ViewController.swift */,
 				9ADD5AF42127408300F34029 /* Main.storyboard */,
+				07D20923212744A500FEC7DA /* Next.storyboard */,
 				9ADD5AFA2127408400F34029 /* Assets.xcassets */,
 				9ADD5AFC2127408400F34029 /* LaunchScreen.storyboard */,
 				9ADD5AFF2127408400F34029 /* Info.plist */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9ADD5AFE2127408400F34029 /* LaunchScreen.storyboard in Resources */,
+				07D20924212744A500FEC7DA /* Next.storyboard in Resources */,
 				9ADD5AFB2127408400F34029 /* Assets.xcassets in Resources */,
 				9ADD5AF62127408300F34029 /* Main.storyboard in Resources */,
 			);
