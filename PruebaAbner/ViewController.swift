@@ -17,7 +17,9 @@ class ViewController: UIViewController {
     
     
     @IBAction func buttonTRexAction(_ sender: Any) {
-        
+        let vc = UIStoryboard(name: "Next", bundle: Bundle.main)
+        let view = vc.instantiateViewController(withIdentifier: "next")
+        navigationController?.pushViewController(view, animated: true)
     }
     
     override func didReceiveMemoryWarning() {
